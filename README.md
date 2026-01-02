@@ -1,4 +1,5 @@
-![CI Status](https://github.com/RemillaSriVaishnavi/ecommerce-data-pipeline-23A91A05I4/actions/workflows/ci.yml/badge.svg)
+![CI Status](https://github.com/23A91A05A5/ecommerce-data-pipeline-23A91A05A5/actions/workflows/ci.yml/badge.svg)
+
 
 # E-Commerce Data Analytics Pipeline
 
